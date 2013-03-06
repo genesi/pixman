@@ -85,3 +85,9 @@ test/window-test
 *.ilk
 *.obj
 *.exe
+
+# debian control stamps
+*-stamp
+
+# pixman build directory
+build
